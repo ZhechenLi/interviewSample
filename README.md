@@ -16,6 +16,8 @@ git clone https://github.com/ZhechenLi/interviewSample
 ### 关于Lexcel
 将公式解析的部分提取出来放进了 `parseFormula_clear.js` 中，其余部分仍需修改。如果需要源码的话，让我去面试就能顺便给你啦。
 
+下面是Lexcel的演示：
+
 ![image](https://raw.githubusercontent.com/ZhechenLi/interviewSample/gh-pages/images/lexcel-gif.gif)
 
 ### !!! BUG ZONE !!!
