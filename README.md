@@ -2,7 +2,7 @@
 
 # 这是一份简历
 
-本来想挂到github page上面演示的，可能是设置的原因只是静态的页面， 明天要期末考试不鼓捣了，先这样凑和着看吧，谢谢。
+>本来想挂到github page上面演示的，可能是设置的原因只是静态的页面， 明天要期末考试不鼓捣了，先这样凑和着看吧，谢谢。
 
 ![image](https://raw.githubusercontent.com/ZhechenLi/interviewSample/gh-pages/overview.png)
 
