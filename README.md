@@ -24,10 +24,9 @@ git clone https://github.com/ZhechenLi/interviewSample
 - 技能那一页自适应不完美（为了照顾动画，本来想着应该没人会看的啦），有时间会重新设计一下。
 - css预处理只是用Less封装了几个简单变量，没实现模块化。
 - 图片尺寸都是按心情来，没能精确到像素（惭愧）。
-
+- 移动端的交互几乎为零
 ---
 
-![image](https://raw.githubusercontent.com/ZhechenLi/interviewSample/gh-pages/images/sprite.gif)
 ![image](https://raw.githubusercontent.com/ZhechenLi/interviewSample/gh-pages/images/sprite.gif)
 ![image](https://raw.githubusercontent.com/ZhechenLi/interviewSample/gh-pages/images/sprite.gif)
 ---
