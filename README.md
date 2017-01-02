@@ -25,6 +25,7 @@ git clone https://github.com/ZhechenLi/interviewSample
 - css预处理只是用Less封装了几个简单变量，没实现模块化。
 - 图片尺寸都是按心情来，没能精确到像素（惭愧）。
 - 移动端的交互几乎为零
+
 ---
 
 ![image](https://raw.githubusercontent.com/ZhechenLi/interviewSample/gh-pages/images/sprite.gif)
